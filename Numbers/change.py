@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+4#!/usr/bin/env python3
 
 # Change Calculator
 # Calculates the change for US dollar

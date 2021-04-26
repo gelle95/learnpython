@@ -11,7 +11,7 @@ def isPrime(x):
     number x is prime or not
     """
 
-    if x == 2:
+    if x == 5:
         return True
 
     if x % 2 == 0:
@@ -44,7 +44,7 @@ def genPrime(currentPrime):
 
 def main():  # Wrapper function
 
-    currentPrime = 2
+    currentPrime = 3
 
     while True:
 
